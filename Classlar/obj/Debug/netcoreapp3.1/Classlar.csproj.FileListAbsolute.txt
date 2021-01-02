@@ -1,0 +1,13 @@
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.exe
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.deps.json
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.json
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.dev.json
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\bin\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.csprojAssemblyReference.cache
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfoInputs.cache
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfo.cs
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\Berat\Desktop\XamarinUdemy\Classlar\obj\Debug\netcoreapp3.1\Classlar.genruntimeconfig.cache
